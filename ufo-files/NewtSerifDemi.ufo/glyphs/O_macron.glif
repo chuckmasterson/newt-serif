@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacron" format="1">
+  <advance width="678"/>
+  <unicode hex="014C"/>
+  <outline>
+    <contour>
+      <point x="370" y="614" type="curve" smooth="yes"/>
+      <point x="535" y="614"/>
+      <point x="640" y="511"/>
+      <point x="640" y="340" type="curve" smooth="yes"/>
+      <point x="640" y="126"/>
+      <point x="491" y="-19"/>
+      <point x="315" y="-19" type="curve" smooth="yes"/>
+      <point x="136" y="-19"/>
+      <point x="38" y="109"/>
+      <point x="38" y="277" type="curve" smooth="yes"/>
+      <point x="38" y="402"/>
+      <point x="145" y="614"/>
+    </contour>
+    <contour>
+      <point x="536" y="319" type="curve" smooth="yes"/>
+      <point x="536" y="465"/>
+      <point x="473" y="562"/>
+      <point x="338" y="561" type="curve" smooth="yes"/>
+      <point x="242" y="561"/>
+      <point x="149" y="487"/>
+      <point x="149" y="285" type="curve" smooth="yes"/>
+      <point x="149" y="116"/>
+      <point x="237" y="35"/>
+      <point x="347" y="35" type="curve" smooth="yes"/>
+      <point x="444" y="35"/>
+      <point x="536" y="109"/>
+    </contour>
+    <contour>
+      <point x="242" y="654" type="curve" smooth="yes"/>
+      <point x="223" y="654"/>
+      <point x="215" y="657"/>
+      <point x="224" y="676" type="curve" smooth="yes"/>
+      <point x="230" y="689"/>
+      <point x="238" y="695"/>
+      <point x="254" y="695" type="curve" smooth="yes"/>
+      <point x="351" y="697"/>
+      <point x="396" y="696"/>
+      <point x="467" y="703" type="curve" smooth="yes"/>
+      <point x="486" y="704"/>
+      <point x="501" y="712"/>
+      <point x="501" y="694" type="curve" smooth="yes"/>
+      <point x="501" y="686"/>
+      <point x="492" y="670"/>
+      <point x="480" y="662" type="curve" smooth="yes"/>
+      <point x="471" y="656"/>
+      <point x="460" y="656"/>
+      <point x="452" y="656" type="curve" smooth="yes"/>
+      <point x="416" y="654"/>
+      <point x="275" y="654"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-19</integer>
+	    <key>width</key>	    <integer>54</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>561</integer>
+	    <key>width</key>	    <integer>53</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>654</integer>
+	    <key>width</key>	    <integer>41</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>656</integer>
+	    <key>width</key>	    <integer>49</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>38</integer>
+	    <key>width</key>
+	    <integer>111</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>536</integer>
+	    <key>width</key>
+	    <integer>104</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

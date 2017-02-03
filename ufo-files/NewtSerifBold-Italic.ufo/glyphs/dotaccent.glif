@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="477"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="374" y="581" type="curve"/>
+      <point x="370" y="540"/>
+      <point x="319" y="507"/>
+      <point x="274" y="507" type="curve" smooth="yes"/>
+      <point x="248" y="507"/>
+      <point x="229" y="525"/>
+      <point x="231" y="551" type="curve" smooth="yes"/>
+      <point x="236" y="599"/>
+      <point x="274" y="634"/>
+      <point x="323" y="634" type="curve" smooth="yes"/>
+      <point x="354" y="634"/>
+      <point x="376" y="614"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>507</integer>
+	    <key>width</key>	    <integer>127</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
