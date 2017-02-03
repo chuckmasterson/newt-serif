@@ -6,6 +6,6 @@ Made by Looseleaf Fonts. This is now open source, but I haven't done any researc
 
 Download the ZIP of all the files:
 
-[Link to come](#tk)
+[NewtComplete.zip](https://github.com/chuckmasterson/newt-serif/raw/master/NewtComplete.zip)
 
 Extract it, and you've got .otf files, which your computer should be able to make sense of. Install it in whatever way you normally install fonts.
