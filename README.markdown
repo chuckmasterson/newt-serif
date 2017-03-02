@@ -12,6 +12,9 @@ shaped letters (for example: *E*, *g*, *s*, and *y*). While the font is
 light-hearted, it’s still a fairly “typographically-minded” serif, comfortable
 enough for longer passages of text.
 
+For more information, see the font's [page at the Looseleaf Fonts
+site](http://looseleaf.chuckmasterson.com/newt).
+
 ## Installing
 
 Download the ZIP of all the files:
