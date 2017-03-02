@@ -33,4 +33,4 @@ yet, but I expect to have a chance to put some up soon.
 
 ## License
 
-SIL Open Font License. See OFL.markdown for details.
+SIL Open Font License. See OFL.txt for details.
