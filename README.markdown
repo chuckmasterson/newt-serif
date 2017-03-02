@@ -1,4 +1,4 @@
-# Newt Serif
+# [Newt Serif](http://looseleaf.chuckmasterson.com/newt)
 
 ![Newt Serif](http://looseleaf.chuckmasterson.com/images/NewtFlag.jpg)
 
